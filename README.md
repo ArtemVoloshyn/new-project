@@ -9,4 +9,4 @@ Instruction for situation when you are using codespace:
 7. When codespace open, in terminal put "git checkout -b development" to create new branch "development" and swithing to it.
 8. Make changes to the README.md file by "vim README.md" and save with ":wq
 9. After changes are done make a "git add" to put file to the stage state and be prepared to make commit.
-9. After file is ready to commit make a commit to the development branch  with "git commit -m add instruction"
+9. After file is ready to commit make a commit to the development branch  with "git commit -m "add instruction" "
